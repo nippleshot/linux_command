@@ -1,9 +1,11 @@
 # linux_command
 2020年 《Linux程序设计》
 
+( ls, wc 명령 구현 )
+
 ---
 # 使用前 ：
-```
+``` 
 cd [.c file path]
 gcc -o ls ./myls.c
 gcc -o wc ./mywc.c
